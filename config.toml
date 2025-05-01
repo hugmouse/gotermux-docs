@@ -1,0 +1,41 @@
+title = 'GoTermux Docs'
+theme = 'docs'
+baseURL = 'https://gotermux.mysh.dev'
+
+copyright = "GoTermux by [mysh](https://github.com/hugmouse). Theme by [zkreations](https://www.zkreations.com)."
+enableRobotsTXT = true
+enableGitInfo = false
+
+enableInlineShortcodes = true
+disableKinds = ["taxonomy","term","RSS"]
+
+languageCode = 'en'
+defaultContentLanguage = 'en'
+
+summaryLength = 20
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+
+# Shortcodes HTML
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+  [markup.goldmark.renderer]
+    unsafe = true
+
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[params]
+  description = "Documenta tus proyectos con Hugo"
+  github_repo_edit = "https://github.com/hugmouse/gotermux-docs/blob/master/content"
+  date_format = "January 2, 2006"
+  versions = [ "0.1" ]
+  badge_url = "https://wiki.termux.com/wiki/Termux:API"
+  main_icon = "book-open"
+  # main_logo = "tu-logo.svg"
