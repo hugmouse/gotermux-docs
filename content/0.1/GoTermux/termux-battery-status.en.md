@@ -46,4 +46,4 @@ Note: `Temperature` is a custom type due to changes in behavior in the Termux AP
 
 ## Termux API reference
 
-{{< pagelink title="termux-battery-status" href="/1.0/termux-api/termux-battery-status" >}}
+{{< pagelink title="termux-battery-status" href="/0.1/termux-api/termux-battery-status" >}}
