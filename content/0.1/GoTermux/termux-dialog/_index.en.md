@@ -1,7 +1,6 @@
 ---
 title: TermuxDialog()
-date: 2025-06-02T16:01:44+02:00
-draft: false
+weight: 4
 ---
 
 Creates a dialog with a specified title.
