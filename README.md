@@ -1,5 +1,8 @@
 # GoTermux documentation
 
+> [!WARNING]
+> This documentation will no longer receive any updates.
+
 This repo contains documentation for [GoTermux](https://github.com/hugmouse/gotermux).
 
 Build on [Hugo](https://gohugo.io), uses [HuDocs](https://github.com/zkreations/docs) theme.
